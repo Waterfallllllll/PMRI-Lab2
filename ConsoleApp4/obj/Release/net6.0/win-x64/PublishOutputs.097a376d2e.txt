@@ -1,0 +1,14 @@
+C:\Users\iliec\Desktop\virus\ConsoleApp4.pdb
+C:\Users\iliec\Desktop\virus\cvextern.dll
+C:\Users\iliec\Desktop\virus\opencv_videoio_ffmpeg481_64.dll
+C:\Users\iliec\Desktop\virus\concrt140.dll
+C:\Users\iliec\Desktop\virus\msvcp140.dll
+C:\Users\iliec\Desktop\virus\msvcp140_1.dll
+C:\Users\iliec\Desktop\virus\msvcp140_2.dll
+C:\Users\iliec\Desktop\virus\msvcp140_atomic_wait.dll
+C:\Users\iliec\Desktop\virus\msvcp140_codecvt_ids.dll
+C:\Users\iliec\Desktop\virus\vcruntime140.dll
+C:\Users\iliec\Desktop\virus\vcruntime140_1.dll
+C:\Users\iliec\Desktop\virus\sni.dll
+C:\Users\iliec\Desktop\virus\SQLite.Interop.dll
+C:\Users\iliec\Desktop\virus\ConsoleApp4.exe
